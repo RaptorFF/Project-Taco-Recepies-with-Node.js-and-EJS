@@ -8,7 +8,7 @@
   - Project URL: 
 
 **What I learned**
-- Native Node Modules(fs(write, read, delete), http/https, path...);
+- Native Node Modules;
 - Node Package Manager;
 - Middelware(body-parser...);
 - Embeded JavaScript(EJS) - ejs syintax(<%= %>, <% %>, <%-include %>)
