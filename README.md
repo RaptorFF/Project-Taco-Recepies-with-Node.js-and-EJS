@@ -2,10 +2,7 @@
 
 ## Overview
 **The chalange**
-- Create Website "Taco Recepies" using Node.js and EJS
-
-**Links**
-  - Project URL: 
+- Create Website "Taco Recepies" using Node.js and EJS 
 
 **What I learned**
 - Native Node Modules;
